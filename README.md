@@ -1,6 +1,6 @@
 # YelpCamp
 
-YelpCamp は、ユーザーがキャンプ場の情報を投稿・閲覧・レビューできるフルスタックの Web アプリケーションです。このプロジェクトは、(https://www.udemy.com/course/the-web-developer-bootcamp-2021-japan/?couponCode=V2JPLETSLEARN)をもとに作成されています。
+YelpCamp は、ユーザーがキャンプ場の情報を投稿・閲覧・レビューできるフルスタックの Web アプリケーションです。このプロジェクトは、(https://www.udemy.com/course/the-web-developer-bootcamp-2021-japan/?couponCode=V2JPLETSLEARN) をもとに作成されています。
 
 ---
 
