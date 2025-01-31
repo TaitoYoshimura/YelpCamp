@@ -147,7 +147,7 @@ app.use((err,req,res,next) => {
     res.status(statusCode).render('err', { err })
 })
 
-
-app.listen(3000, ()=>{
-    console.log('ポート3000番でリクエスト受付中...')
+const port = process.env.PORT || 3000
+app.listen(port, ()=>{
+    console.log(`ポート${port}でリクエスト受付中...`)
 })
